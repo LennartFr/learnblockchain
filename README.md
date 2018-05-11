@@ -1,6 +1,6 @@
 # learnblockchain
 
-# Blockchainintro  [ibm.biz/lacollision](https://ibm.biz/lacollision)
+
                            
 ## How does blockchain work? https://youtu.be/lD9KAnkZUjU 
 
