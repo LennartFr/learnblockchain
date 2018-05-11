@@ -1,6 +1,7 @@
 # learnblockchain
 
 
+## The heart of Blockchain, the Distributed Ledger: https://youtu.be/Cqk7PN8f8gM
                            
 ## How does blockchain work? https://youtu.be/lD9KAnkZUjU 
 
