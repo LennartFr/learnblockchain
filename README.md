@@ -4,7 +4,7 @@
                            
 ## How does blockchain work? https://youtu.be/lD9KAnkZUjU 
 
-## Blockchain Car Leasse demo: https://youtu.be/IgNfoQQ5Reg
+## Blockchain Car Lease demo: https://youtu.be/IgNfoQQ5Reg
 
 ## Blockchain Use Cases: https://www.ibm.com/blockchain/use-cases/
                                                      
