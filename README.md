@@ -48,7 +48,7 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 [Composer Playground](https://composer-playground.mybluemix.net/login)
 
 
-https://hyperledger.github.io/composer/v0.16/assets/img/Composer-Diagram.svg
+<img src="https://hyperledger.github.io/composer/v0.16/assets/img/Composer-Diagram.svg">
 
 
 
