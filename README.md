@@ -43,6 +43,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 https://www.hyperledger.org/projects/composer
 
+Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v0.16/reference/cto_language
+
 [Composer Playground](https://composer-playground.mybluemix.net/login)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
