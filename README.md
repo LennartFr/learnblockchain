@@ -14,7 +14,9 @@
                                                      
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Hyperledger Fabric   
+# developing Blockchain applications
+
+## Hyperledger Fabric   
 
 <img src="https://farm1.staticflickr.com/960/41055079635_d00c82c7dd_z.jpg" width="640" height="203" alt="fabric">
 
@@ -33,7 +35,7 @@ Deployed in Docker images.
 https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-architecture-6d3c83818eb1
 <p>
 
-# Hyperledger Composer
+## Hyperledger Composer
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -47,7 +49,9 @@ https://www.hyperledger.org/projects/composer
 
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/image001.jpg">
 
-# [IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
+# Hosting Blockchain applications on in the IBM Cloud 
+
+[IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
 
 [IBM Blockchain Platform](https://console.bluemix.net/developer/blockchain/dashboard)
 
