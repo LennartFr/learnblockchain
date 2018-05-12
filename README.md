@@ -53,6 +53,8 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 <img src="https://cdn-images-1.medium.com/max/800/1*q4INoHadf0wBcB_Cax93uQ.png">
 
 
+<img src="https://www.ibm.com/developerworks/cloud/library/cl-integrate-data-with-hyperledger-composer-blockchain/fig1.png">
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
