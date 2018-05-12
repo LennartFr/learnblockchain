@@ -31,13 +31,9 @@ Deployed in Docker images.
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 <p> Permissioned<p> 
-Google RPC P2P Protocol<p> 
+
 https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-architecture-6d3c83818eb1
 <p>
-
-<img src="https://farm5.staticflickr.com/4660/25963918068_b7a6234a86_b.jpg" width="1024" height="539" alt="EndorsementConsensus">
-
-It is also important to note the Hyperledger Fabric has HSM (Hardware Security Module) support which is vital for safeguarding and managing digital keys for strong authentication. Hyperledger Fabric provides modified and unmodified PKCS11 for key generation, which supports cases like identity management that need more protection.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
