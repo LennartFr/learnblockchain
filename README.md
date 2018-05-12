@@ -49,6 +49,9 @@ https://www.hyperledger.org/projects/composer
 
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/image001.jpg">
 
+https://composer-playground.mybluemix.net/
+
+
 # Host Blockchain applications in the IBM Cloud 
 
 [IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
