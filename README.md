@@ -64,6 +64,8 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 
 # Host Blockchain applications in the IBM Cloud 
 
+IBM Blockchain Platform is a flexible software-as-a-service offering that is delivered via the IBM Cloud. It enables network members to quickly get started developing and easily move to a collaborative environment. The platform simplifies your blockchain journey of developing, governing, and operating a network. Choose a membership plan based on your ecosystem needs. Note that you must choose the **US South** cloud region to create blockchain networks with Starter Membership Plan (Beta).
+
 [IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
 
 [IBM Blockchain Platform](https://console.bluemix.net/developer/blockchain/dashboard)
