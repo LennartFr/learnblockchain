@@ -44,6 +44,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install generator-hyperledger-composer
     `npm install -g generator-hyperledger-composer`
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Steps
 
 ## 1. Clone the repo
@@ -52,6 +53,7 @@ Clone the `Decentralized-Energy-Composer code` locally. In a terminal, run:
 
 `git clone https://github.com/IBM/Decentralized-Energy-Composer`
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## 2. Setup the Hyperledger Fabric
 
 These commands will kill and remove all running containers, and should remove all previously created Hyperledger Fabric chaincode images:
@@ -70,6 +72,7 @@ cd fabric-tools/
 ./startFabric.sh
 ./createPeerAdminCard.sh
 ```
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 3. Generate the Business Network Archive
 
@@ -82,7 +85,7 @@ npm install
 
 The `composer archive create` command in `package.json` has created a file called `decentralized-energy-network@0.1.15.bna`.
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## 4. Deploy to Fabric
 
 Now, we are ready to deploy the business network to Hyperledger Fabric. This requires the Hyperledger Composer chaincode to be installed on the peer,then the business network archive (.bna) must be sent to the peer, and a new participant, identity, and associated card must be created to be the network administrator. Finally, the network administrator business network card must be imported for use, and the network can then be pinged to check it is responding.
@@ -108,6 +111,7 @@ Check that the business network has been deployed successfully, run the followin
 ```
 composer network ping --card admin@decentralized-energy-network
 ```
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 5. Run the Application
 
@@ -134,11 +138,13 @@ The application should now be running at:
 The REST server to communicate with network is available here:
 `http://localhost:3000/explorer/`
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 6. Create Participants
 
 Once the application opens, create participants and fill in dummy data.  Create Residents, Banks and Utility Companies.
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 7. Execute Transactions
 
@@ -152,6 +158,10 @@ cd ~/fabric-tools
 ./stopFabric.sh
 ./teardownFabric.sh
 ```
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Appendic
 
 ## Extending Code Pattern
 
