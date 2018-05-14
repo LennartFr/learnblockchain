@@ -24,8 +24,8 @@ This code pattern is for developers looking to start building Blockchain applica
 
 # Included Components
 
-* Hyperledger Composer
-* Angular Framework
+* Hyperledger Composer https://hyperledger.github.io/composer/latest/
+* Angular Framework  https://angular.io/
 * Loopback
 
 # Running the Application
