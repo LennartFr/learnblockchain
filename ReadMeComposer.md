@@ -12,6 +12,10 @@ This code pattern is for developers looking to start building Blockchain applica
 
 <p align="center">
   <img width="650" height="200" src="images/arch.png">
+  
+  <img src="https://github.com/LennartFr/learnblockchain/blob/master/arch.png">
+  
+  
 </p>
 
 1. The administrator interacts with Decentralized Energy UI comprising of Angular framework
