@@ -14,9 +14,12 @@
                                                      
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Develop Blockchain applications
+# Develop Blockchain applications on Hyperledger Fabric   
 
-## On Hyperledger Fabric   
+Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
+is hosted by The Linux Foundation®. 
+
+Deployed in Docker images.
 
 <img src="https://farm1.staticflickr.com/960/41055079635_d00c82c7dd_z.jpg" width="640" height="203" alt="fabric">
 
@@ -25,11 +28,6 @@ https://youtu.be/pr4Hb0jb0lo
 https://www.hyperledger.org/projects/fabric
 
 [Hyperledger Fabric Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
-
-Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
-is hosted by The Linux Foundation®. 
-
-Deployed in Docker images.
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 <p> Permissioned<p> 
@@ -42,10 +40,6 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 https://youtu.be/gAxK6zYrfxI
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
-
-
 
 <img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
 
