@@ -46,6 +46,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Steps
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Step 1. Clone the repo
 
