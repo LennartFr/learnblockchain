@@ -35,7 +35,7 @@ https://www.hyperledger.org/projects/fabric
 https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-architecture-6d3c83818eb1
 <p>
 
-## With Hyperledger Composer
+# Develop Blockchain applications with Hyperledger Composer
 
 https://youtu.be/gAxK6zYrfxI
 
