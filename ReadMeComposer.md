@@ -1,14 +1,10 @@
 
-# Decentralized Energy with Hyperledger Composer
-
-A key application of Blockchain being currently explored is a Decentralized Energy network. The idea stems from a neighborhood where certain Residents are producing energy through Solar panels or other means, and can sell excess energy to Residents needing energy. The transactions would be based on coins in each Resident's account. As per a pre-determined contract and rate, the coins would be debited from the consumer and credited to the producer, for a certain billing period. Each transaction would need to be atomic and added to a Blockchain ledger for trust and verification. The network can include Banks to transact coins for Fiat currency (USD). The network can have Utility Company who can buy or provide energy through the network.
-
-In this code pattern, we will create such a Blockchain application using Hyperledger Composer. The network consists of Residents, Banks and Utility Companies. Residents can exchange coins for energy among each other.  The application assumes a pre-paid system where transactions occur after the energy is consumed and the values are updated.  The Resident can exchange coins for Fiat money (USD) with Banks on the network.  The Residents can also transact coins for energy with a Utility company on the network.
+# Introduction
 
 This code pattern is for developers looking to start building Blockchain applications with Hyperledger Composer. When the reader has completed this code pattern, they will understand how to:
 
-* Create business network using Hyperledge Composer and recording transactions on Blockchain ledger
-* Deploying the networking to an instance of Hyperledger Fabric
+* Create a business network using Hyperledge Composer and recording transactions on the Blockchain ledger
+* Deploying the network to an instance of Hyperledger Fabric
 * Building an Angular app to interact with the network through REST API
 
 
@@ -48,14 +44,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install generator-hyperledger-composer
     `npm install -g generator-hyperledger-composer`
 
-## Steps
-1. [Clone the repo](#1-clone-the-repo)
-2. [Setup Fabric](#2-setup-fabric)
-3. [Generate the Business Network Archive](#3-generate-the-business-network-archive)
-4. [Deploy to Fabric](#4-deploy-to-fabric)
-5. [Run Application](#5-run-application)
-6. [Create Participants](#6-create-participants)
-7. [Execute Transactions](#7-execute-transactions)
+# Steps
 
 ## 1. Clone the repo
 
@@ -63,7 +52,7 @@ Clone the `Decentralized-Energy-Composer code` locally. In a terminal, run:
 
 `git clone https://github.com/IBM/Decentralized-Energy-Composer`
 
-## 2. Setup Fabric
+## 2. Setup the Hyperledger Fabric
 
 These commands will kill and remove all running containers, and should remove all previously created Hyperledger Fabric chaincode images:
 
@@ -120,7 +109,7 @@ Check that the business network has been deployed successfully, run the followin
 composer network ping --card admin@decentralized-energy-network
 ```
 
-## 5. Run Application
+## 5. Run the Application
 
 First, go into the `angular-app` folder and install the dependency:
 
