@@ -11,7 +11,7 @@ This code pattern is for developers looking to start building Blockchain applica
 # Architecture Flow
 
 <p align="center">
-  <img width="650" height="200" src="images/arch.png">
+  <img width="650" height="200" src="/img/arch.png">
   
   <img src="https://github.com/LennartFr/learnblockchain/img/arch.png">  
 </p>
