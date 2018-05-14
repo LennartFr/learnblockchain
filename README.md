@@ -59,6 +59,8 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 
 <img srec="https://cdn-images-1.medium.com/max/1600/0*mQOJAR6zZtU6esW6.png">
 
+[Deploying Business Networks](https://hyperledger.github.io/composer/latest/business-network/bnd-deploy.html)
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
