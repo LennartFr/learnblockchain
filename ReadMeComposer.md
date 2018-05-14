@@ -47,14 +47,14 @@ Follow these steps to setup and run this code pattern. The steps are described i
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Steps
 
-## 1. Clone the repo
+## Step 1. Clone the repo
 
 Clone the `Decentralized-Energy-Composer code` locally. In a terminal, run:
 
 `git clone https://github.com/IBM/Decentralized-Energy-Composer`
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## 2. Setup the Hyperledger Fabric
+## Step 2. Setup the Hyperledger Fabric
 
 These commands will kill and remove all running containers, and should remove all previously created Hyperledger Fabric chaincode images:
 
@@ -74,7 +74,7 @@ cd fabric-tools/
 ```
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## 3. Generate the Business Network Archive
+## Step 3. Generate the Business Network Archive
 
 Next generate the Business Network Archive (BNA) file from the root directory:
 
@@ -86,7 +86,7 @@ npm install
 The `composer archive create` command in `package.json` has created a file called `decentralized-energy-network@0.1.15.bna`.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## 4. Deploy to Fabric
+## Step 4. Deploy to Fabric
 
 Now, we are ready to deploy the business network to Hyperledger Fabric. This requires the Hyperledger Composer chaincode to be installed on the peer,then the business network archive (.bna) must be sent to the peer, and a new participant, identity, and associated card must be created to be the network administrator. Finally, the network administrator business network card must be imported for use, and the network can then be pinged to check it is responding.
 
@@ -113,7 +113,7 @@ composer network ping --card admin@decentralized-energy-network
 ```
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## 5. Run the Application
+## Step 5. Run the Application
 
 First, go into the `angular-app` folder and install the dependency:
 
