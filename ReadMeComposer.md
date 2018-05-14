@@ -49,7 +49,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 <img src="/img/arch.png">
 
-<img src="img/app_scrnshot.png">
+<img src="/img/scrnshot.png">
 
 # Steps
 
