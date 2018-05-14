@@ -47,12 +47,9 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="https://raw.githubusercontent.com/IBM/Decentralized-Energy-Composer/master/images/arch.png">
-
-
 <img src="/img/arch.png">
 
-<img src="https://raw.githubusercontent.com/IBM/Decentralized-Energy-Composer/master/images/app_scrnshot.png">
+<img src="img/app_scrnshot.png">
 
 # Steps
 
