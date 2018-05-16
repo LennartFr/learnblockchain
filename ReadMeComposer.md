@@ -45,6 +45,24 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install generator-hyperledger-composer
     `npm install -g generator-hyperledger-composer`
 
+
+## Remove existing installs !  
+https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
+
+Run these commands below to stop and remove container processes.
+
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+To stop and remove images completely run the following commands
+
+docker stop $(docker images -a -q)
+docker rmi $(docker images -a -q) 
+To check if anything is there ,
+
+docker ps -a 
+docker images -a
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="/img/arch.png">
