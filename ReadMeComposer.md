@@ -61,12 +61,13 @@ To check if anything is there ,
 - npm uninstall -g composer-rest-server
 - npm uninstall -g generator-hyperledger-composer
 - npm uninstall -g yo
-- npm uninstall -g composer-playground
-
-and 
-
+- npm uninstall -g composer-pla
+- npm uninstall -g composer-cli
+- npm uninstall -g composer-rest-server
+- rm -rf ~/.composer
+- rm *.card
+- rm -rf credentials
 - rm -fr ${HOME}/.composer
-
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
