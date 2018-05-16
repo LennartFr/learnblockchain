@@ -69,6 +69,8 @@ To check if anything is there ,
 - rm -rf credentials
 - rm -fr ${HOME}/.composer
 
+- docker system prune -a
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="/img/arch.png">
