@@ -63,6 +63,11 @@ To check if anything is there ,
 - npm uninstall -g yo
 - npm uninstall -g composer-playground
 
+and 
+
+- rm -fr ${HOME}/.composer
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="/img/arch.png">
