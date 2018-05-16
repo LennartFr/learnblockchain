@@ -31,20 +31,13 @@ This code pattern is for developers looking to start building Blockchain applica
 # Running the Application
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
-## Prerequisite
+## Prerequisites
+
 - Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12
 - [Docker](https://www.docker.com/) (Version 17.03 or higher)
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
-- [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
-  * to install composer cli
-    `npm install -g composer-cli`
-  * to install composer-rest-server
-    `npm install -g composer-rest-server`
-  * to install generator-hyperledger-composer
-    `npm install -g generator-hyperledger-composer`
-
 
 ## Remove existing installs !  
 https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
@@ -81,6 +74,16 @@ To check if anything is there ,
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Step 1. Clone the repo
+
+- [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
+
+  * to install composer cli
+    `npm install -g composer-cli`
+  * to install composer-rest-server
+    `npm install -g composer-rest-server`
+  * to install generator-hyperledger-composer
+    `npm install -g generator-hyperledger-composer`
+
 
 Clone the `Decentralized-Energy-Composer code` locally. In a terminal, run:
 
