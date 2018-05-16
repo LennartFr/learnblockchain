@@ -1,3 +1,7 @@
+# Lennart Notes:
+
+https://github.com/raheelzubairy/customer-loyalty-program
+
 
 # Introduction
 
@@ -69,8 +73,6 @@ To check if anything is there ,
 - rm -rf credentials
 - rm -fr ${HOME}/.composer
 
-- docker system prune -a
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="/img/arch.png">
@@ -85,7 +87,7 @@ To check if anything is there ,
 
 - [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
 
-  * to install composer cli 
+  * to install composer cli
     `npm install -g composer-cli`
   * to install composer-rest-server
     `npm install -g composer-rest-server`
