@@ -10,6 +10,9 @@ Published October 2008.<p>
   
 <a href="https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/">How do digital signatures in Bitcoin work?</a>
 
+Two problems to overcome: non-repudiation and double-spending.
+
+
 ## The heart of Blockchain, the Distributed Ledger: https://youtu.be/Cqk7PN8f8gM
                            
 ## How does blockchain work? https://youtu.be/lD9KAnkZUjU 
