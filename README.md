@@ -3,6 +3,7 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Introduction
+Published October 2008.<p>
 
 <img src="https://farm1.staticflickr.com/894/40696462890_8ebf943507_z.jpg" width="640" height="308" alt="bitcoinpaper">
 <p><a href="https://bitcoin.org/bitcoin.pdf">https://bitcoin.org/bitcoin.pdf</a>
