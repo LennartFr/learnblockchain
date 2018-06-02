@@ -5,6 +5,7 @@
 # Introduction
 
 <img src="https://farm1.staticflickr.com/894/40696462890_8ebf943507_z.jpg" width="640" height="308" alt="bitcoinpaper">
+<p><a href="https://bitcoin.org/bitcoin.pdf">https://bitcoin.org/bitcoin.pdf</a>
 
 ## The heart of Blockchain, the Distributed Ledger: https://youtu.be/Cqk7PN8f8gM
                            
